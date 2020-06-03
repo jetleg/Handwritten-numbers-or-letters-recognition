@@ -1,2 +1,2 @@
 # Handwritten-numbers-or-letters-recognition
-bayesian/KNN/SVM method ,matlab
+bayesian/KNN/SVM method ,MATLAB
